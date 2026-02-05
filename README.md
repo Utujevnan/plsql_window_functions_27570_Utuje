@@ -2,9 +2,8 @@
 
 **Student Name:** Utuje Vanessa  
 **Student ID:** 27570  
-**Course:** Database Development with PL/SQL (INSY 8311)  
-**Instructor:** Eric Maniraguha  
-**Submission Date:** February 6, 2026
+**Course:** Database Development with PL/SQL  
+
 
 ---
 
@@ -149,7 +148,8 @@ The query identifies inactive customers who registered but haven't made purchase
 
 ---
 
-### 3. RIGHT JOIN: Unsold Products
+ ### 3. LEFT JOIN (Equivalent to RIGHT JOIN): Unsold Products
+
 
 **SQL Query:**
 ```sql
@@ -411,11 +411,11 @@ I confirm that:
 
 The screenshots demonstrate actual query execution in my database environment. This work reflects my learning and understanding of SQL JOINs and window functions.
 
-**Signature:**  
+  
 Utuje Vanessa  
 Student ID: 27570  
-Date: February 6, 2026
+
 
 ---
 
-*End of README*
+
